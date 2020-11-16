@@ -1,0 +1,7 @@
+{
+  "name": "MyNewMVC",
+  "type": "project",
+  "require": {
+    "illuminate/database": "^8.14"
+  }
+}
